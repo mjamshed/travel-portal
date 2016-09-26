@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 web: java %_JAVA_OPTIONSR% -cp target/travelportal.jar
+=======
+web: java %_JAVA_OPTIONSR% -cp target/travelportal.jar
+>>>>>>> 9de4e9ab8bd4cd9f4b1ecec2d18eeb8ff516fc59
