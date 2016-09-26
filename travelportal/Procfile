@@ -1,1 +1,1 @@
-web: java %_JAVA_OPTIONSR% -cp target/classes/
+web: java %_JAVA_OPTIONSR% -cp target/travelportal.jar
