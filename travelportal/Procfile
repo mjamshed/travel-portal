@@ -1,0 +1,1 @@
+web: java %_JAVA_OPTIONSR% -cp target/classes/;target/dependency/* MyResource
