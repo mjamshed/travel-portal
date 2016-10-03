@@ -29,10 +29,10 @@
 					<td><input type="submit" value="Login" /></td>
 					<td><input type="reset" value="Reset" /></td>
 				</tr>
-				<tr>
+				<!-- <tr>
 					<td colspan="2">New User <a href="register.jsp">Register
 							Here</a></td>
-				</tr>
+				</tr> -->
 			</tbody>
 		</table>
 
