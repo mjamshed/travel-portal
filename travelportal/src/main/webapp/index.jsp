@@ -5,8 +5,10 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Portal Login</title>
 </head>
+
 <body bgcolor="silver">
-	<form method="post" action="webapi/portallogin">
+
+	<form method="post" action="loginprocess.jsp">
 
 		<table border="0" width="50%" cellpadding="3">
 			<thead>
@@ -17,7 +19,7 @@
 			<tbody>
 				<tr>
 					<td>UserId</td>
-					<td><input type="text" name="userid" value="" /></td>
+					<td><input type="text" name="userName" value="" /></td>
 				</tr>
 				<tr>
 					<td>Password</td>

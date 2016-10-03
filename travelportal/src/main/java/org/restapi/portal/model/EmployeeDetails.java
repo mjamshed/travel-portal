@@ -1,7 +1,5 @@
 package org.restapi.portal.model;
 
-import java.util.Date;
-
 public class EmployeeDetails {
 	private String id;
 	private String password;
